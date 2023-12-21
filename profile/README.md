@@ -1,6 +1,9 @@
 ## Panopticon
 Panopticon is a mobile application that can supervise your exam based on face detection to address the issue of cheating and promote academic integrity. 
-![Panopticon Logo]([Link URL](https://raw.githubusercontent.com/Bangkit-Capstone-Project-CH2-PS227/Asset/main/panopticon-logo-revisi%202.png))  
+<p align="center">
+  <img src="https://github.com/Bangkit-Capstone-Project-CH2-PS227/.github/assets/76995178/20a97816-3ec1-417f-8972-952f690d12d1" />
+</p>
+
 
 ## Greetings
 Hello everyone! We are from team CH2-PS227. Our teams consist of seven members, which are:
